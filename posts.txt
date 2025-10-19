@@ -1,0 +1,10 @@
+Заголовок: Announcing the 2025 PSF Board Election Results!
+Ссылка: https://www.python.orghttps://pyfound.blogspot.com/2025/09/announcing-2025-psf-board-election.html
+Заголовок: Sprints are the best part of a conference
+Ссылка: https://www.python.orghttps://pyfound.blogspot.com/2025/09/sprints-are-best-part-of-conference.html
+Заголовок: The 2025 PSF Board Election is Open!
+Ссылка: https://www.python.orghttps://pyfound.blogspot.com/2025/09/the-2025-psf-board-election-is-open.html
+Заголовок: pypistats.org is now operated by the Python Software Foundation
+Ссылка: https://www.python.orghttps://pyfound.blogspot.com/2025/08/pypistats-org-is-now-operated-by-the-psf.html
+Заголовок: The 2024 Python Developer Survey Results are here!
+Ссылка: https://www.python.orghttps://pyfound.blogspot.com/2025/08/the-2024-python-developer-survey.html
