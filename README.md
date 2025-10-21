@@ -6,6 +6,9 @@
 
 Этот проект представляет собой простой веб-скрапер, который извлекает заголовки и ссылки на посты с официального блога Python ([https://www.python.org/blogs/](https://www.python.org/blogs/)). Программа сохраняет полученные данные в текстовый файл.
 
+<img width="453" height="123" alt="image" src="https://github.com/user-attachments/assets/3b68a50a-bdae-47c1-9402-074e719a8e8d" />
+
+<img width="1237" height="812" alt="image" src="https://github.com/user-attachments/assets/51b24295-3d68-402c-b72c-b70300c19126" />
 
 ## Установка зависимостей
 
