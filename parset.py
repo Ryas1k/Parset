@@ -30,7 +30,7 @@ try:
             all_posts = post_list_container.find_all('li')
             print(f"\nНайдено {len(all_posts)} постов. Выводим результат:\n")
             
-            with open('parset\posts.txt', 'w', encoding='utf-8') as files:
+            with open('posts.txt', 'w', encoding='utf-8') as files:
                 # --- Шаг 5: Извлечение и вывод данных ---
                 for post in all_posts:
                     link_tag = post.find('a')
@@ -53,3 +53,4 @@ try:
 # Обработка ошибок, если сайт вообще не ответил (например, нет интернета)
 except requests.exceptions.RequestException as e:
     print(f"Ошибка! Не удалось подключиться к сайту: {e}")
+
